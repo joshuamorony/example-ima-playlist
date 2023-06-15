@@ -1,0 +1,7 @@
+{
+  "name": "playlist-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
